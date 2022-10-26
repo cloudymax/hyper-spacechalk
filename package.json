@@ -1,0 +1,9 @@
+{
+  "name": "hyper-spacechalk",
+  "version": "0.0.1",
+  "description": "A hyper theme inspired by Jessebot's spacechalk theme for 'Onboardme' ",
+  "main": "index.js",
+  "repository": "https://github.com/cloudymax/hyper-spacechalk",
+  "author": "Cloudymax",
+  "license": "MIT"
+}
