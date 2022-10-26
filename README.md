@@ -16,4 +16,4 @@ module.exports = {
 ```
 
 ## License
-MIT @ [CLoudymax](https://github.com/cloudymax)
+MIT @ [Cloudymax](https://github.com/cloudymax)
