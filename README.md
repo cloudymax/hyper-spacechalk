@@ -16,4 +16,4 @@ module.exports = {
 ```
 
 ## License
-MIT @ [Rodney Dennis](https://rod.today)
+MIT @ [CLoudymax](https://github.com/cloudymax)
